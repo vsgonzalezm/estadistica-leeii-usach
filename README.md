@@ -8,13 +8,13 @@
 
 Este curso introduce a los/as estudiantes en los fundamentos de la estadística aplicada a ciencias sociales, proporcionando herramientas para comprender y analizar fenómenos contemporáneos. A través de un enfoque que combina teoría y práctica, los/as estudiantes desarrollarán competencias en el análisis e interpretación de datos, utilizando el software R para implementar análisis estadísticos.
 
-El programa está diseñado para cultivar el pensamiento crítico y la técnica cuantitativa. Los/as estudiantes aprenderán a evaluar críticamente investigaciones cuantitativas, interpretar resultados estadísticos y comunicar hallazgos de manera efectiva. Se enfatiza la importancia de la ética en el análisis de datos y la rigurosidad metodológica.
+El programa está diseñado para fomentar el pensamiento crítico y la técnica cuantitativa. Los/as estudiantes aprenderán a evaluar críticamente investigaciones }, interpretar resultados estadísticos y comunicar hallazgos de manera efectiva. Se enfatiza la importancia de la ética en el análisis de datos.
 
 ## Contenidos
 
 ### Unidad 1: Estadística Descriptiva
 - Introducción a la Estadística y R studio
-- Análisis Descriptivo Univariado
+- Análisis Descriptivo Univariado y Bivariado
 - Visualización de Datos
 
 ### Unidad 2: Estadística Inferencial

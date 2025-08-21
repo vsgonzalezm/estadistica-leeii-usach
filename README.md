@@ -22,7 +22,7 @@ El programa está diseñado para cultivar el pensamiento crítico y la técnica 
 - Pruebas de Hipótesis
 - Comparación de Grupos
 
-### Unidad 3: Regresión lineal
+### Unidad 3: Regresión 
 - Modelo de regresión OLS
 - Regresión múltiple
 
